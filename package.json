@@ -1,0 +1,19 @@
+{
+  "name": "age-cache",
+  "version": "1.0.0",
+  "description": "string map with ttl",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js | tspec"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tap-spec": "^3.0.0",
+    "tape": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:calvinmetcalf/age-cache.git"
+  }
+}
